@@ -1,4 +1,4 @@
-# Devsu-E2E Prueba tecnica
+# Integracion Selenium con Testuff
 
 ## Proyecto desarrollado con [Selenium](https://www.selenium.dev/selenium/docs/api/javascript/index.html) + [Cucumber-JS](https://github.com/cucumber/cucumber-js)
 
