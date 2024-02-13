@@ -1,3 +1,4 @@
 node_modules/
 screenshots/*.png
 package-lock.json
+.env
