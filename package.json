@@ -21,6 +21,7 @@
   "dependencies": {
     "@cucumber/pretty-formatter": "^1.0.0",
     "cross-env": "^7.0.3",
+    "dotenv": "^16.4.4",
     "selenium-webdriver": "^4.16.0",
     "xmlhttprequest": "^1.8.0"
   },
